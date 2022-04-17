@@ -1,6 +1,7 @@
 # Amazon_Alexa_Development
 New custom alexa skill with node js. and AWS Lambda
 Project Alexa
+
 Automated appropriate customized reply from Amazon Alexa using AWS lambda service and Send Email to a person basis of the Amazon Alexa command using AWS Lambda.
 
 Tasks and Steps:
